@@ -1,0 +1,14 @@
+{
+  "name": "github-login-bot",
+  "version": "1.0.0",
+  "description": "Automation script for logging into GitHub using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wawan",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
